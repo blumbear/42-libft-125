@@ -84,20 +84,6 @@ int				ft_toupper(int c);
  */
 int				ft_tolower(int c);
 
-/**
- * @brief If `c` is a letter, converts it to uppercase.
- * @param c a character.
- * @return The transformes character.
- */
-int				ft_toupper(int c);
-
-/**
- * @brief If `c` is a letter, converts it to lowercase.
- * @param c a character.
- * @return The transformes character.
- */
-int				ft_tolower(int c);
-
 /******************************************************************************/
 /*                                                                            */
 /* String                                                                     */
